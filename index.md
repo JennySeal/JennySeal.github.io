@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# jennySeal's gitHub page
 
-You can use the [editor on GitHub](https://github.com/JennySeal/JennySeal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Here are some of the projects I have been working on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. A style guide for my upcoming Personal Portfolio - https://jennyseal.github.io/StyleGuideEg/
 
-### Markdown
+2. A compliment generator using simple JavaScript - https://jennyseal.github.io/ComplimentGenerator/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Coming Soon - All of these projects are in production: **
+1. My Personal Portfolio Page 
+2. A Hangman Game I created
+3. A Birthday Countdown gadget
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JennySeal/JennySeal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you very much for checking out my projects.
+Jenny
