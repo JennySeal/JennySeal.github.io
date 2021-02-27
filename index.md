@@ -2,11 +2,11 @@
 
 ### Here are some of the projects I have been working on. 
 
-1. A site for a fictional company - GlampTastic - [https://jennyseal.github.io/GlampTastic/](https://jennyseal.github.io/GlampTastic/)
+1. A responsive site for a fictional company - GlampTastic - [https://jennyseal.github.io/GlampTastic/](https://jennyseal.github.io/GlampTastic/)
 
 2. A responsive site for a fictional club - Cardiff Chi Club - [https://jennyseal.github.io/ChiClub/](https://jennyseal.github.io/ChiClub/)
 
-3. 1. A style guide for my upcoming Personal Portfolio - [https://jennyseal.github.io/StyleGuideEg/](https://jennyseal.github.io/StyleGuideEg/)
+3. A style guide for my upcoming Personal Portfolio - [https://jennyseal.github.io/StyleGuideEg/](https://jennyseal.github.io/StyleGuideEg/)
 
 4. A compliment generator using simple JavaScript - [https://jennyseal.github.io/ComplimentGenerator/](https://jennyseal.github.io/ComplimentGenerator)
 
